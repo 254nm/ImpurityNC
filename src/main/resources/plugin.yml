@@ -1,0 +1,10 @@
+name: NameColour
+version: ${project.version}
+main: me.impurity.namecolour.NameColour
+authors: [ 254n_m, SevJ6 ]
+description: Name colour plugin for impurity.me
+website: http://www.l2x9.org
+commands:
+  namecolor:
+    description: What do you think nigger
+
